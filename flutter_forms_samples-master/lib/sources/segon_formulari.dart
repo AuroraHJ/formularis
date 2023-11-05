@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 
+
 class SegonFormulari extends StatefulWidget {
   const SegonFormulari({Key? key}) : super(key: key);
   @override

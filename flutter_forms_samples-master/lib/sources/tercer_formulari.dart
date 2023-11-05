@@ -1,9 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_fast_forms/flutter_fast_forms.dart';
-//import 'package:flutter_fast_forms_example/form_array_item.dart';
-
-//import 'custom_form_field.dart';
 
 class TercerFormulari extends StatelessWidget {
   const TercerFormulari({super.key});
